@@ -4,15 +4,15 @@
 
 <b>Features</b>:<br>
 * Ptrace/ASLR/Yama Bypass<br>
-* Dynamic library loading<br>
-* Private file extractor<br>
 * Linux common features<br>
-* Privilege escalation<br>
+* Dynamic library loading<br>
 * SmartLock extraction<br>
+* Private file extractor<br>
+* Privilege escalation<br>
 * KeyStore extraction<br>
 * Advanced reflection<br>
-* Library injection<br>
 * Core Observers<br>
+* Library injection<br>
 * Extensible<br>
 
 <b>Support</b>:<br>
