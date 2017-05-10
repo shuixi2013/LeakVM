@@ -21,7 +21,7 @@
 
 <br>You team are ready for us ?<br>
 
-See our JavaDoc on [JavaDoc](https://xtremetechllc.github.io/LeakVM/javadoc/)<br>
+See our JavaDoc on [JavaDoc](https://xtremetechllc.github.io/LeakVM/JavaDoc/)<br>
 
 Follow us on:
 
