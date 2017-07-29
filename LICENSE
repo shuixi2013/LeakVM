@@ -1,56 +1,152 @@
 required:
-  - include-copyright
+- include-copyright
 
 permitted:
-  - derived projects
-  - commercial-use
-  - distribution
-  - private-use
+- derived projects
+- commercial-use
+- distribution
+- private-use
 
 forbidden:
-  - no-liability
-  - trademark-use
+- no-liability
+- trademark-use
 
-Copyright (c) [2017], [LeakVM] All rights reserved.
+Copyright (c) [2017], [XEKRI CORP, LEAKVM] All rights reserved.
 
 Redistribution and use of this binary without modification and/or hack our Services
 and/or API and/or Core, are permitted provided that the following conditions are met:
 
-* This software should never be used to commit crimes or create malicious software,
-  otherwise will be considered a criminal offense, this crime will be considered as
-  "premeditation to commit theft", another criminal offenses can be attached to it.
+This software should never be used to commit crimes or create malicious software,
+otherwise will be considered a criminal offense, this crime will be considered as
+"premeditation to commit theft" and/or "premeditation to commit fraud",another
+criminal offenses can be attached to it.
 
-* It is totally forbidden to modify and/or hack "LeakVM" and/or their services and/or
-  API and/or Core and/or source code to get it's free and/or hack the system,
-  will be considered a criminal offense, this crime will be considered as "theft"
-  and/or "premeditation to commit theft" and/or "fraud", another criminal
-  offenses can be attached to it.
+It is totally forbidden to modify and/or hack "LeakVM" and/or their services and/or
+API and/or Core and/or source code to get it's free and/or hack the system,
+will be considered a criminal offense, this crime will be considered as "theft"
+and/or "premeditation to commit theft" and/or "fraud", another criminal
+offenses can be attached to it.
 
-* Try to hack our payment system and/or services and/or API, everything related to the customer
-  (email, IP's, VPN's, TOR, Proxy's, Devices, Payments, Rewards), will be banned for life,
-  If the customer paid for our services, the customer lost it, if the customer have rewards
-  lost it, too it's action will be considered a criminal offense, this crime will be considered
-  as "premeditation to commit theft", another criminal offenses can be attached to it.
+Try to hack our payment system and/or services and/or API, everything related to the customer
+(email, IP's, VPN's, TOR, Proxy's, Devices, Payments, Rewards), will be banned for life,
+If the customer paid for our services, the customer lost it, if the customer have rewards
+lost it, too it's action will be considered a criminal offense, this crime will be considered
+as "premeditation to commit theft", another criminal offenses can be attached to it.
 
-* Explicitly it is prohibited to share the account, each account is unique, each client must
-  have one, infringing this, results in the automatic banning of the system, the client
-  will lose payments and/or rewards related to that account, too it's action will be
-  considered a criminal offense, this crime will be considered as "fraud".
+Explicitly it is prohibited to share the account, each account is unique, each client must
+have one, infringing this, results in the automatic banning of the system, the client
+will lose payments and/or rewards related to that account, too it's action will be
+considered a criminal offense, this crime will be considered as "fraud".
 
-* Never the purchase of a personal license is the same as a commercial license and/or
-  a license for derivative products, "LeakVM" is a commercial product, you need
-  specific prior written permission and you need pay for use it.
+Explicitly it is prohibited to share and/or publish and /or design and/or build and/or develop
+and/or any kind of software to hack our product, it's action will be considered a criminal
+offense, this crime will be considered as "premeditation to commit theft" and/or
+"premeditation to commit fraud" and/or "fraud" and/or "theft", another criminal offenses
+can be attached to it.
 
-* Neither the name of "LeakVM" nor the names of its
-  contributors may be used to endorse or promote products derived from
-  this our software without specific prior written permission.
+Under no circumstances should models similar to ours be replicated, thereby creating a
+usufruct that affects the interests and policies of our company and/or our products,
+this will be considered a criminal offense, this crime will be considered as
+"technology theft" and/or "An infringement of copyright", another criminal
+offenses can be attached to it.
 
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
+Never the purchase of a personal license is the same as a commercial license and/or
+a license for derivative products, "LeakVM" is a commercial product, you need
+specific prior written permission and you need pay for use it.
 
-* Redistributions in binary form must reproduce the above copyright notice,
-  this list of conditions and the following disclaimer in the documentation
-  and/or other materials provided with the distribution.
+Neither the name of "LeakVM" nor the names of its
+contributors may be used to endorse or promote products derived from
+this our software without specific prior written permission.
+
+XEKRI CORP Reserves the right to change the terms and conditions eventually without
+permission or consent of its users including the privacy policy.
+
+XEKRI CORP Reserves the right to modify, suspend or discontinue products and services
+for any reason without the consent of its users. Including without limitation,
+if XEKRI CORP considers that it has violated or acted in contradiction to the stipulations
+in the Conditions of use. If such termination occurs, you will automatically cease to have
+the right to use this Site and the Services. You agree that your access to this Site may be
+terminated without notice.
+
+By using and/or visiting and/or browsing and/or download, our products and services,
+whether or not you have made a payment or subscription, you accept that you are bound
+by these terms and conditions.
+
+Violation of any of these terms will result in termination and/or banning of your
+account and all related with you (email, IP's, VPN's, TOR, Proxy's, Devices,
+Payments, Rewards).
+
+Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
+
+By accessing the Products and Services, including our website and/or github and
+other user interfaces, you agree to use the Products and Services, including all
+features and functionality associated therewith, our website, other user interfaces
+and all content and software Associated in accordance with all laws, rules and
+regulations, or other restrictions on the use of the Products and Services or
+Content therein.
+
+Neither XEKRI CORP nor the affiliated entities shall be liable for damages resulting from
+any use and/or inability to use this site and/or software, services and/or software and/or
+derived from the content or content of the user posted on the site by XEKRI CORP and/or a
+third party.
+
+You agree to defend, indemnify and hold harmless XEKRI CORP, its affiliated Entities and
+any other party related to the creation, production or operation of the Site, and their
+respective directors, officers, employees, agents, shareholders, licensors and representatives,
+To any claim, loss, costs and expenses (including, without limitation, attorneys' fees)
+arising out of (a) your use of the Site or related activities, Services or Software;
+(B) any violation of these Terms of Use that you make as a user or that are made through your account;
+Or (c) any accusation made against a Submission or User Content available through the Site,
+the Services or the Software for infringing or violating the copyright, trademark, trade secret,
+privacy or other intellectual property rights or third parties.
+
+Personal information that identifies you, such as your name, mailing address, telephone or
+cell phone number, email address, when you provide it through this Site, when subscribing to
+newsletters or contacting Customer service or any other interaction with the Website.
+We may use your personally identifiable information for all legal purposes.
+
+This Site is not intended for children, so we ask that children do not provide personal
+information that identifies them through it.
+
+Often this Site requires the use of encrypted or unencrypted cookies.
+Cookies are data that a Web server transfers to the computer as a registration.
+
+Cookies are commonly used in the sector by practically all Websites and provide the user with
+access to and use of specific sites, providing information that can be used to offer specific
+content that is appropriate to their interests and for other purposes such as security And other
+account management functions, which may result in the tracking of personal identification information.
+
+Cookies do not cause damage to the computer and only the website that transfers them can read,
+modify or delete them. If you do not want any information to be collected through cookies,
+most browsers have simple systems that allow you to delete them, automatically reject them or
+allow you to choose whether or not to accept the transfer of cookies to your computer. Refer to your
+browser's instructions or the help screen for more information about these features. You should note,
+however, that if you do not accept cookies it may be difficult or impossible to access certain parts
+of the Site.
+
+We may establish a special relationship with another company that does not belong to XEKRI CORP or is a
+subsidiary of XEKRI CORP, to introduce more functions on the Site. These special relationships are
+established with business partners or sponsors. Any information, including that of a personal nature
+that identifies you will be provided as the third parties will make use of the information in
+accordance with their own privacy practices, we recommend that you review the information
+corresponding to The different privacy policies of the various websites.
+
+XEKRI CORP employs security measures in accordance with industry standard practices to help protect
+against public access to personally identifiable information that XEKRI CORP collects and uses on
+this site. The database in which personal identification information is stored has restricted access.
+
+XEKRI CORP reserves the right to make such modifications as it deems appropriate in these Conditions of Use.
+In the event that XEKRI CORP makes a significant change in the present conditions of use, it will be
+made public in this document. We recommend that you visit this page frequently, as the use of the Site
+after any changes made in this document constitute acceptance of such changes.
+
+In case of disagreement, the only solution is to stop using this site and/our services, too delete
+all our files and source code.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
@@ -61,9 +157,9 @@ DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
 SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE, .
 
-THIS LICENSE IS CREATED TO HAVE ZERO TOLERANCE WITH CRIME AND FRAUD, IF YOU NOT
-COMMIT CRIMES, YOU ARE FINE, ENJOY LEAKVM.
+THIS LICENSE WAS CREATED TO HAVE ZERO TOLERANCE WITH CRIME, FRAUD AND THEFT,
+IF YOU NOT COMMIT CRIMES, YOU ARE FINE, ENJOY LEAKVM.
 
 Sincerely: LeakVM Team.
