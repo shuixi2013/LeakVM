@@ -4,16 +4,20 @@
 
 <b>Features</b>:<br>
 * Ptrace/ASLR/Yama Bypass<br>
+* API for 3rd party projects<br>
 * Linux common features<br>
 * Dynamic library loading<br>
 * SmartLock extraction<br>
 * Private file extractor<br>
-* Privilege escalation<br>
 * KeyStore extraction<br>
 * Advanced reflection<br>
+* WebServices Engine<br>
+* Privilege escalation<br>
 * Core Observers<br>
 * Library injection<br>
+* OOP Bypass<br>
 * Extensible<br>
+
 
 <b>Support</b>:<br>
 * Android 4.4 to 6.0<br>
