@@ -21,12 +21,8 @@
 
 <br>You team are ready for us ?<br>
 
-See our JavaDoc on [JavaDoc](https://xtremetechllc.github.io/LeakVM/JavaDoc/)<br>
+See our JavaDoc on [JavaDoc](https://xekricorp.github.io/LeakVM/JavaDoc/)<br>
 
 Follow us on:
 
-[Twitter](https://twitter.com/XtremeTechLLC)<br>
-[LinkedIn](https://www.linkedin.com/company/xtremetech/)<br>
-[PeerLyst](https://www.peerlyst.com/companies/extreme-tech-llc/)<br>
-[Facebook](https://www.facebook.com/XtremeTechLLC/)<br>
-[Angel List](https://angel.co/xtreme-tech)<br><br>
+[Twitter](https://twitter.com/XekriCorp)<br><br>
