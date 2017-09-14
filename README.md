@@ -25,7 +25,7 @@
 
 <br>You team are ready for us ?<br>
 
-See our JavaDoc on [JavaDoc](https://xekricorp.github.io/LeakVM/JavaDoc/)<br>
+See our JavaDoc on [JavaDoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
 
 Follow us on:
 
