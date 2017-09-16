@@ -13,6 +13,7 @@
 * Advanced reflection<br>
 * WebServices Engine<br>
 * Privilege escalation<br>
+* Context Spoofers<br>
 * Core Observers<br>
 * Library injection<br>
 * OOP Bypass<br>
