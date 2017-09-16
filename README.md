@@ -27,6 +27,5 @@
 
 See our [javadoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
 
-Follow us on:
+Follow us on [Twitter](https://twitter.com/XekriCorp)<br><br>
 
-[Twitter](https://twitter.com/XekriCorp)<br><br>
