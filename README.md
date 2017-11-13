@@ -28,5 +28,6 @@
 
 See our [javadoc](https://xekricorp.github.io/LeakVM/javadoc/)<br>
 
-Follow us on [Twitter](https://twitter.com/XekriCorp)<br><br>
-
+Follow us on [Twitter](https://twitter.com/XekriCorp/)<br>
+Follow us on [Instagram](https://www.instagram.com/xekricorp/)<br>
+Follow us on [Facebook](https://www.facebook.com/XekriCorp/)<br><br>
