@@ -22,7 +22,7 @@
 
 <b>Support</b>:<br>
 * Android 4.4 to 6.0<br>
-* Architectures Arm(32/64 bits), x86(32/64 bits)<br>
+* Architectures Arm(32/64 bits), x86(32/64 bits), MIPS(32/64 bits)<br>
 
 <br>You team are ready for us ?<br>
 
